@@ -86,7 +86,7 @@ main {
     z-index: 100;
     display: block;
   }
-  .menu-trigger div{
+  .menu-trigger span{
     display: inline-block;
     transition: all 0.4s;
     position: absolute;
@@ -94,26 +94,26 @@ main {
     height: 1px;
     background: #000;
   }
-  .menu-trigger div:nth-of-type(1){
+  .menu-trigger span:nth-of-type(1){
     top: 0;
   }
-  .menu-trigger div:nth-of-type(2){
+  .menu-trigger span:nth-of-type(2){
     top: 50%;
     transform: translateY(-50%);
   }
-  .menu-trigger div:nth-of-type(3){
+  .menu-trigger span:nth-of-type(3){
     bottom: 0;
   }
 
   /* JSで変更される箇所 */
-  .menu-trigger.is-active div:nth-of-type(1){
+  .menu-trigger.is-active span:nth-of-type(1){
     transform: translateY(9px) rotate(-315deg);
   
   }
-  .menu-trigger.is-active div:nth-of-type(2){
+  .menu-trigger.is-active span:nth-of-type(2){
     opacity: 0;
   }
-  .menu-trigger.is-active div:nth-of-type(3){
+  .menu-trigger.is-active span:nth-of-type(3){
     transform: translateY(-9px) rotate(315deg);
   }
   
