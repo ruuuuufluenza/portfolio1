@@ -250,6 +250,10 @@ header {
     background-position: center;
 }
 
+.swiper-slide img {
+  width: 100%;
+}
+
 
 /* top_about部分ここから */
 
