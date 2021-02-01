@@ -249,6 +249,12 @@
         max-width: 70%;
     }
     
+    /* スクロールトップボタン */
+     .scroll-top {
+        right: 5px
+        
+    }
+    
     }
 
     @media(max-width:320px){
@@ -270,5 +276,11 @@
         .item_detail {
             max-width: calc( 100% - 100px);
         }
+        
+        /* スクロールトップボタン */
+     .scroll-top {
+        right: 5px
+        
+    }
     }
    
