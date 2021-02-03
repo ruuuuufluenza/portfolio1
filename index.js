@@ -1,3 +1,7 @@
+
+
+import 'stylesheet.css';
+
 // メニューボタンここから
 document.addEventListener('DOMContentLoaded', function(){
     document.getElementById("menu-trigger").addEventListener("click", function(){
