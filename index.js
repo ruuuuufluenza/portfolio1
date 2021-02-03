@@ -1,6 +1,6 @@
 
 
-import 'stylesheet.css';
+import ' https://ruuuuufluenza.github.io/portfolio1/stylesheet.css ';
 
 // メニューボタンここから
 document.addEventListener('DOMContentLoaded', function(){
