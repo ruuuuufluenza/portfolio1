@@ -251,13 +251,13 @@ header {
   }
 
   .swiper-slide.slide1{
-      background-image:url(https://ruuuuufluenza.github.io/portfolio1/alice-dotto-gA-52x6-wOY-unsplash.jpg);
+      background-image:url(https://ruuuuufluenza.github.io/portfolio1/../img/alice-dotto-gA-52x6-wOY-unsplash.jpg);
   }
   .swiper-slide.slide2{
-    background-image:url(https://ruuuuufluenza.github.io/portfolio1/henry-co-fhT1fqukEK8-unsplash.jpg);
+    background-image:url(https://ruuuuufluenza.github.io/portfolio1/../img/henry-co-fhT1fqukEK8-unsplash.jpg);
   }
   .swiper-slide.slide3{
-    background-image:url(https://ruuuuufluenza.github.io/portfolio1/amy-meegan-Jb2n5VQWiQo-unsplash.jpg);
+    background-image:url(https://ruuuuufluenza.github.io/portfolio1/../img/amy-meegan-Jb2n5VQWiQo-unsplash.jpg);
   }
 /* スクロールトップボタン */
   .scroll-top {
